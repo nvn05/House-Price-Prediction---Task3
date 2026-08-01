@@ -149,7 +149,7 @@ House-Price-Prediction-Task3/
 1. Clone this repository
 
 ```
-git clone https://github.com/your-username/House-Price-Prediction-Task3.git
+git clone https://github.com/nvn05/House-Price-Prediction-Task3.git
 ```
 
 2. Install dependencies
